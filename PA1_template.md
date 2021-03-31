@@ -25,7 +25,7 @@ date: The date on which the measurement was taken in YYYY-MM-DD format
 
 interval: Identifier for the 5-minute interval in which measurement was taken
 
-The dataset is stored in a comma-separated-value (CSV) file and there are a total of 17,568 observations in this dataset.
+The dataset is stored in a comma-separated-value (CSV) file and there are a total of 17,568 observations in this dataset. 
 
 
 
